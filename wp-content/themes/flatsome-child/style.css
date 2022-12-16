@@ -1,0 +1,451 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+.header-bottom{background-image: linear-gradient(#78bb20 , #3e9200);}
+.list-post .post-item .box-text{padding-bottom:0}
+.list-post .post-item .from_the_blog_excerpt {    height: 62px;
+    overflow: hidden;}
+.header-bottom-nav img{width:22px}
+.section-title-main{min-width:167px}
+.section1{padding-bottom:0 !important}.box-blog-post .is-divider{display:none}
+.copyright-footer{    color: #797979;
+    font-size: 13px;}
+.footer-section ul li{margin-bottom:3px}
+.footer-section ul li a{color:#4a4a4a;}
+.footer-section ul li a:hover{color:black; text-decoration:underline}
+a.back-to-top{border:none !important; color:white !important; background:#459704 !important}
+.single-product .page-title-inner {
+    position: relative;
+    padding-top: 0;
+    min-height: 40px;
+}
+.absolute-footer, .footer-section{border-top:1px solid #dedede}.page-title:not(.featured-title)+main .product-main {
+    padding-top: 0;
+}
+.single-product .cot1{padding-right:0;}
+.single-product .cot3{padding-left:15px}#warrant {
+    margin: 0 0 10px 0;
+}#warrant h3 {
+    background: #e50404;
+    color: #fff;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    font-size: 15px;
+    margin: 0;
+}#warrant ul {
+    background: #fadb35;
+    padding: 0 10px;
+}#warrant ul li {
+    font-size: 13px;
+    color: #e50404;
+    font-weight: bold;
+    padding: 10px 0 10px 40px;
+    border-bottom: 1px solid #edcc28;
+    border-top: 1px solid #fee35b;
+}#warrant ul li#chinhhang {
+    background: url(../../uploads/2020/02/chinhhang.png) no-repeat center left;
+}#warrant ul li span {
+    display: block;
+    font-weight: normal;
+    color: #666;
+}#warrant ul li#vanchuyen {
+    background: url(../../uploads/2020/02/vanchuyen.png) no-repeat center left;
+}#warrant ul li#trahang {
+    background: url(../../uploads/2020/02/trahang.png) no-repeat center left;
+}#warrant ul li#ttoan {
+    background: url(../../uploads/2020/02/thanhtoan.png) no-repeat center left;
+}
+.single-product .product-main .cot1{flex-basis:20%; max-width:20%}
+.single-product .product-main .cot3{flex-basis:20%; max-width:20%}
+.single-product .product-main .cot2{padding-left:15px; flex-basis:60%; max-width:60%}#right_hotline {
+    background: #fadb35 url(../../uploads/2020/02/icon_phone.png) no-repeat bottom left;
+    padding: 10px;
+    margin: 0 0 7px 0;
+    background-position-x: 10px;
+    background-position-y: 81%;
+}#right_hotline h3 {
+    font-size: 15px;
+    padding: 0;
+    color: #333;
+}#right_hotline ul li {
+    font-size: 14px;
+    font-weight: bold;
+    color: red;
+    padding: 3px 0;
+    padding: 0 0 0 90px;
+}
+.list-post .post-item .post-title:hover{color:#439603; text-decoration:underline}
+.list-post .post-item .post-title{margin-bottom: 10px; color:#424242}
+.single-product .product-main .content-row{max-width:1140px}
+span.widget-title {
+    font-size: 14px;
+    letter-spacing: 0;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    background: #6db31a;
+    line-height: 33px;
+    border-top-left-radius: 4px;
+    color: white;
+    border-top-right-radius: 4px;
+}.widget .is-divider{display:none}
+.widget .pwb-row{border:1px solid #ececec;}
+.widget .pwb-row li{padding: 0 10px;
+    background: url(../../uploads/2020/02/iconList.png);
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: 10px;
+    padding-left: 30px;}
+.widget .pwb-row li a{display: block;
+    font-size: 14px;
+    font-weight: bold;
+    color: #565656;}
+.tin-tuc-section h2{font-size:20px; font-weight:normal; color:#313131; margin-bottom:15px}
+.header-nav .header-cart-title{    color: #489905;
+    font-size: 17px;
+    font-weight: normal;}
+.single-product .product-main .badge-container{display:none}
+.product-gallery-slider img{border:1px solid #ececec}
+.cam-ket{padding:0 15px; margin-bottom:15px}
+.luu-y{margin-top:10px; font-size:15px;margin-bottom:10px}
+.woocommerce-tabs .tabs{border-bottom: 1px solid #d8d8d8;margin-top:0 !important}.product-footer .woocommerce-tabs {
+    padding: 0;
+    border-top: 0;
+}
+.cam-ket .box-text{    font-size: 14px;border:1px solid #ececec; border-radius:4px; padding:15px}
+.single-product .product-info{padding-bottom:0;
+    padding-top: 0;
+    padding-left: 0;
+}
+.single-product .product-info .product-title{     margin-bottom: 0;
+    font-size: 18px;
+    color: #545454;
+    border-bottom: 1px solid #ececec;
+    padding-bottom: 10px;
+}.pwb-single-product-brands {
+    padding-top: 0px; font-size:14px
+}
+.nav-dropdown{padding:10px; border:none}
+.nav-dropdown li a{ color:#585858; border-right:none !important; padding-top:3px;padding-bottom:3px; border-bottom:none !important}
+.nav-dropdown li a:hover{color:#ff9800; background:none !important}
+.header-bottom-nav li a{    border-right: 1px solid #439503;line-height:23px; font-weight:normal; font-size:14px; padding-left:10px;padding-right:10px}
+.header-bottom-nav{border-left:1px solid #439503}
+.header-bottom-nav li{margin:0}
+.header-bottom-nav li a:hover{background:#FF9800}
+.header-bottom-nav .icon-angle-down:before{display:none}
+#header-contact li a{text-transform:none}
+.header-search-form-wrapper input{height:40px; box-shadow:none}
+.header-search-form-wrapper select{height:40px; border-top-left-radius:3px; border-bottom-left-radius:3px; border-right:none}
+.header-search-form-wrapper .searchform .button.icon {
+    margin: 0;
+    width: 50px;
+    height: 40px;
+    background: #73b71d;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+.nav-dropdown .menu-item-has-children>a, .nav-dropdown .title>a, .nav-dropdown .nav-dropdown-col>a{font-size:15px; font-weight:bold; text-transform:none; color:green}.hdevvn-show-cats li a:hover{color:#429502}
+.section-title-normal{border: 1px solid #e6e6e6;
+    border-radius: 4px;background:url(../../uploads/2020/02/title_home-1.png)}.section-title-normal span {    margin-right: 15px;
+    padding-bottom: 0;
+    border-bottom: 0;
+    margin-bottom: 0;
+    font-size: 13px;
+    line-height: 29px;
+    padding: 0px 5px;
+    color: white;
+}
+.hdevvn-show-cats li a{font-size:14px; text-transform:none; font-weight:normal; padding-left: 0px;color:#5f5f5f}
+.hdevvn-show-cats li{
+    margin-bottom: 0;float:left; display:inline-block; margin-right:5px; list-style:none}
+.hdevvn-show-cats{margin-left:20px}
+.section-title a {
+    display: block;
+    padding-left: 15px;
+    font-size: .8em;
+    margin-left: auto;
+    font-size: 14px;
+    font-weight: normal;
+    margin-right: 8px;
+}.section-title-container {
+    margin-bottom: 0;
+}
+.danh-muc-section .col.large-12{padding-bottom:0}
+.danh-muc-section .badge-container{margin:10px}
+.danh-muc-section .badge-container .badge{width:40px; height:27px}
+.danh-muc-section .badge-container .badge .badge-inner{font-size:14px; font-weight:normal; border-radius:4px}
+.product-small.box .box-text{padding:11px 10px}
+.product-small.box{background:white; border-right:1px solid #e6e6e6; border-bottom:1px solid #e6e6e6;}
+.danh-muc-section .large-columns-4 {border-left:1px solid #e6e6e6; border-top:1px solid #e6e6e6}
+.product-small.box .product-title a:hover{text-decoration:underline;color:#459704}
+.product-small.box .price span, .product-small.box .price ins span{color:#f54f00}
+.product-small.box .add-to-cart-button a:hover{background: #ff9800;
+    border-bottom: 3px solid #e08600;
+    box-shadow: none;}
+.danh-muc-section .cot3 .medium-6{border-right: 1px solid #e6e6e6;
+    border-bottom: 1px solid #e6e6e6;}
+.danh-muc-section .cot3 .row-collapse{border-top: 1px solid #e6e6e6;
+    border-left: 1px solid #e6e6e6;}
+.product-small.box .add-to-cart-button a{    background: #6cbd21;
+    border-radius: 3px;
+    text-transform: none;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 26px !important;
+    border-bottom: 3px solid #62a014;
+	min-height: 30px; letter-spacing:0}.danh-muc-section .badge-container{display:none}
+.product-small.box .price, .product-small.box .price del span{color:gray !important}
+.product-small.box .product-title a{font-weight:bold; color:#4e4e4e;}
+.product-small.box .product-title{height:40px !important; overflow:hidden; margin-bottom:10px}
+.widget .pwb-row li a:hover{color:#f58322; text-decoration:underline}
+.thong-tin-chung{margin-top:10px}
+.thong-tin-chung ul li{margin-bottom: 3px;
+    list-style: none;
+    font-size: 14px;
+    margin-left: 0;}
+.thong-tin-chung ul li .label{font-weight: bold;
+    color: #429502;}
+.thong-tin-chung ul{margin-bottom:0}.pwb-text-before-brands-links {
+    margin-right: 4px;
+    font-weight: bold;
+    color: #3f9301;
+}
+.single-product .product-info .price, .single-product .product-info .price del span{color:gray !important; font-size:15px !important;     font-weight: normal;}
+.single-product .product-short-description{    font-size: 14px;
+    color: #5f5f5f;
+    height: 87px;
+    overflow: hidden; margin-bottom:15px
+}
+.single-product .product-info .price span, .single-product .product-info .price ins span{color:red; font-size:22px; font-weight:bold}
+form{margin-bottom:0}
+.single-product .product_meta {
+    font-size: .8em;
+    margin-bottom: 0;
+}.product-summary .quantity {
+    margin-bottom: 0;
+    margin-right: 4px;
+}
+.single-product .single_add_to_cart_button{border-radius: 4px;background: #FF9800 !important;
+    letter-spacing: 0;
+    text-transform: none; font-size:15px !important
+    }
+.woocommerce-tabs .tabs li{margin-right: 2px;
+    margin-left: 0;}
+.woocommerce-tabs .tab-panels{font-size:16px}
+.related h3{margin-bottom: 0;
+    text-transform: none;
+    letter-spacing: 0;
+    font-size: 17px;}
+.related .product-small.col{padding:0}
+.related .large-columns-4{border-left:1px solid #e6e6e6; border-top:1px solid #e6e6e6; margin-left:0 !important; margin-right:0 !important}
+.widget img{width:100%}
+.woocommerce-tabs .tab-panels h4{    font-size: 17px;
+    margin-bottom: 5px;}
+.woocommerce-tabs .tab-panels h3{    font-size: 18px;
+    margin-bottom: 5px;}
+.woocommerce-tabs .tab-panels h2{    font-size: 19px;
+    margin-bottom: 5px;}
+.woocommerce-tabs .tabs li.active>a:before, .woocommerce-tabs .tabs li:hover>a:before{display:none !important}
+.woocommerce-tabs .tabs li.active a{background:#f58322}
+.woocommerce-tabs .tabs li a{padding-left: 12px;
+    padding-right: 12px;
+    background: #70b51c;
+    border-top-left-radius: 6px;
+    color: white;
+    border-top-right-radius: 6px;
+    text-transform: none;
+    letter-spacing: 0;
+    font-size: 15px;padding-top:7px;padding-bottom:7px
+}
+.product_list_widget del span{color:gray !important; font-size:13px !important}
+.product_list_widget span.amount, .product_list_widget ins span{    color: #FF5722;
+    font-size: 14px;
+    font-weight: normal;}
+.product_list_widget .product-title:hover{color:#459704; text-decoration:underline}
+.archive .shop-page-title {    margin-bottom: 4px;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0;
+    color: #489905;}.breadcrumbs {
+    color: #222;
+			font-weight: normal;}.woocommerce-result-count, .woocommerce-ordering select{font-size:14px; font-weight:normal}
+.archive .category-page-row {
+    padding-top: 15px;
+}
+.archive .large-9{flex-basis:80%; max-width:80%}
+.archive .term-description{    color: black;font-size:15px}
+.archive .term-description p{margin-bottom:10px}
+.archive .sub-title{margin-top: 25px;
+    font-size: 18px;
+    color: #429502;}
+.blog-single .large-3{padding-left:0; border-left:none !important; flex-basis:20%; max-width:20%}
+.blog-single .entry-title{font-size: 19px;
+    color: #449603;
+    margin-bottom: 0;}
+.blog-single .entry-content h2{font-size:18px}
+.blog-single .entry-content h3{font-size:17px}
+.blog-single .entry-content h4{font-size:16px}
+#breadcrumbs{font-size:14px; margin-bottom:10px}.is-divider{display:none}.entry-header-text {
+    padding: 0;
+}
+.xem-them ul li{margin-bottom:3px}
+.xem-them .tieu-de-xem-them{font-size:18px; font-weight:normal; color:#f58322}
+.blog-single .blog-share{text-align:left}.entry-content{padding-bottom:0} 
+.bai-viet-lien-quan h3{color:black; font-size:18px}
+.bai-viet-lien-quan .list-bai-viet{display:inline-block; width:100%; clear:both}.bai-viet-lien-quan ul li {
+    list-style: none;
+    width: 25%;
+    color: graytext;
+    float: left;
+    padding-left: 4px;
+    padding-right: 5px;
+}.bai-viet-lien-quan ul li .box-image img {
+    height: 120px;
+    border-radius: 4px;
+    object-fit: cover;
+    object-position: center;
+}.bai-viet-lien-quan h4 {
+    font-size: 14px;
+    color: black;
+    line-height: 17px;
+    padding-top: 7px;
+    height: 59px;
+    overflow: hidden;
+}
+.xem-them li a{font-weight:bold; font-size:15px}.recent-blog-posts a {
+    line-height: 1.2;
+    display: block;
+    margin-bottom: 6px;
+    font-size: 14px;
+    font-weight: bold;    color: #545454;
+}
+.blog-archive .post-item .post-title:hover{color:green; text-decoration:underline}
+.blog-archive .post-item .post-title{margin-bottom:10px; font-size:19px; font-weight:normal}
+.blog-archive .large-9 .badge{display:none}
+.page-left-sidebar .large-9{padding-left:0; border-left:none !important}
+.page-left-sidebar .large-3{padding-right:15px; border-right:none !important}h1.entry-title.mb {
+    margin-bottom: 10px;
+    font-size: 19px;
+    text-transform: none;
+    letter-spacing: 0;
+    color: #429502;
+}.form-lien-he input, .form-lien-he textarea {
+    border-radius: 3px;
+    box-shadow: none;
+    font-size: 14px;
+}.form-lien-he textarea {
+    min-height: 80px;
+}.form-lien-he .wpcf7-submit {
+    margin: 0;
+    font-size: 15px;
+    text-transform: none;
+    font-weight: normal;
+}
+.page-left-sidebar .page-inner h4{font-size:17px;}
+.page-left-sidebar .page-inner h3{font-size:18px;}
+.page-left-sidebar .page-inner h2{font-size:19px;}
+.page-left-sidebar .page-inner ul{margin-left:20px}
+.flatsome_recent_posts ul{border:1px solid #e6e6e6}
+.recent-blog-posts-li{padding:0 10px}.woocommerce-billing-fields input {margin-bottom:0;
+    border-radius: 3px;
+    box-shadow: none;
+    font-size: 14px;
+}p.form-row-first, p.form-row-last {
+    width: 100%;
+}
+.checkout .large-5 .col-inner {
+    padding: 15px;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    background: #f8f8f8;
+}form.checkout h3 {
+    overflow: hidden;
+    padding-top: 10px;
+    font-weight: bolder;
+    text-transform: none;
+    letter-spacing: 0;
+    font-size: 17px !important;
+}.shop_table thead th, .shop_table .order-total td, .shop_table .order-total th {
+    border-width: 3px;
+    text-transform: none;
+    letter-spacing: 0;
+}.button#place_order {
+    border-radius: 4px;
+    text-transform: none;
+    font-weight: normal;
+    letter-spacing: 0;
+}
+.woocommerce-billing-fields h3{text-transform:none; letter-spacing:0}
+.blog-archive .page-title{color: #449704;text-transform: none;
+    letter-spacing: 0;}
+.blog-archive .archive-page-header .large-12{text-align:left; padding-bottom:15px}
+.blog-archive {padding-top:15px;padding-bottom:15px}
+.blog-archive .large-3{padding-left:0}
+.recent-blog-posts .mr-half {
+    margin-right: 8px;
+}
+.bai-viet-lien-quan{margin-top:15px}
+.blog-single .entry-meta{font-size:14px; text-transform:none; coloR:gray; letter-spacing:0; margin-top:12px}
+.blog-single {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.blog-single .large-9{border-right:none !important; padding-right:15px; flex-basis:80%; max-width:80%}
+.archive .large-columns-4{margin-left:0!important; margin-right:0 !important; border-top:1px solid #e6e6e6; border-left:1px solid #e6e6e6;}
+.archive .product-small.col{padding:0}
+.product-categories{border:1px solid #e6e6e6;}
+.product-categories li a:hover{color:#3f9301; text-decoration:underline}
+.product-categories li a{font-size: 14px;display:block;
+    font-weight: bold;
+    color: #505050;}
+.product-categories li{background: url(../../uploads/2020/02/iconList.png);
+    background-repeat: no-repeat;
+    background-position-y: 13px;
+    background-position-x: 5px;
+    padding-left: 20px;
+padding-right:8px}
+.archive .badge-container{display:none}
+.archive .large-3{padding-right:0; flex-basis:20%; max-width:20%}
+.product_list_widget .product-title{font-size:14px; color:#4e4e4e}
+.product_list_widget{border:1px solid #e6e6e6}ul.product_list_widget li {
+    list-style: none;
+	padding: 10px 5px 10px 67px;}
+.widget{margin-bottom:0}.stuck .header-main{display:none}
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+.icon-angle-down:before{color:white}.nav-sidebar.nav-vertical>li+li {
+    border-top: 1px solid #337700;
+}
+.hdevvn-show-cats {
+    display: none;
+}.off-canvas-left.mfp-ready .mfp-content {
+    background: #3e9200;
+}.off-canvas:not(.off-canvas-center) .nav-vertical li>a {
+    padding-left: 20px;
+    font-size: 15px;
+    color: white;
+    text-transform: none;
+    font-weight: normal;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}.off-canvas:not(.off-canvas-center) .nav-vertical li ul.children {
+    background: #337700;
+    margin-bottom: 0; padding-bottom:0
+}.off-canvas:not(.off-canvas-center) .nav-vertical li ul.children li a {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}.danh-muc-section .cot3 .medium-6{flex-basis:33.33%; max-width:33.33%}
+.single-product .cot2 .large-6{padding-bottom:15px}
+.single-product .cot2{padding-right:15px}.single-product .product-info{padding-left:15px}.woocommerce-tabs .tabs li{width:50%; float:left; display:inline-block}.single-product .cot3{padding-right:15px}
+.footer-section .col, .single-product .cot1, .single-product .cot2, .single-product .cot3, .archive .large-9, .archive .large-3, .blog-single .large-9, .blog-single .large-3{flex-basis:100%; max-width:100%}.list-post .post-item .post-title{font-size:16px;color:#439603}.blog-single .large-3{padding-left:15px;}.archive .large-3{padding-left:15px;padding-right:15px}
+.category-filtering strong{font-weight:bold; letter-spacing:0}#shop-sidebar{background:white}.stuck .header-main{display:block !important}.bai-viet-lien-quan ul li{width:50%}.bai-viet-lien-quan ul li .box-image img{height:100px}
+
+}
